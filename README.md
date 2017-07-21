@@ -11,4 +11,4 @@ python script that takes word documents containing contract data and creates cor
 
 **legal_entity_extraction.ipynb**
 ---------------------------------
-Jupyter Notebook that outlines the steps we took to experiment with the idea and some results! You can view it [here]().
+Jupyter Notebook that outlines the steps we took to experiment with the idea and some results! You can view it [here](https://nbviewer.jupyter.org/github/kurtisdavid/LegalEntityExtraction/blob/master/legal_entity_extraction.ipynb).
